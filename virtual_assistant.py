@@ -24,7 +24,7 @@ start_time = time()
 engine = pyttsx3.init()
 
 # name of the virtual assistant
-name = 'alexa'                                                                                                           
+name = 'juan'                                                                                                           
 
 
 attemts = 0
